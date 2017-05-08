@@ -9,7 +9,6 @@
 * **1** x [Lightning Storm](http://www.hearthpwn.com/cards/676-lightning-storm)
 * **1** x [Thing from Below](http://www.hearthpwn.com/cards/33159-thing-from-below)
 * **2** x [Maelstrom Portal](http://www.hearthpwn.com/cards/42045-maelstrom-portal)
-* **2** x [Blowgill Sniper](http://www.hearthpwn.com/cards/49672-blowgill-sniper)
 * **2** x [Jade Lightning](http://www.hearthpwn.com/cards/49707-jade-lightning)
 * **2** x [Jade Spirit](http://www.hearthpwn.com/cards/49708-jade-spirit)
 * **2** x [Devolve](http://www.hearthpwn.com/cards/49715-devolve)
@@ -18,3 +17,4 @@
 * **2** x [Jade Claws](http://www.hearthpwn.com/cards/49724-jade-claws)
 * **2** x [Spirit Echo](http://www.hearthpwn.com/cards/55514-spirit-echo)
 * **2** x [Air Elemental](http://www.hearthpwn.com/cards/55549-air-elemental)
+* **2** x [Hot Spring Guardian](http://www.hearthpwn.com/cards/55564-hot-spring-guardian)
